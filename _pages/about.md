@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jian Zhu, a Ph.D. candidate at [Department of Linguistics](https://lsa.umich.edu/linguistics), University of Michigan. 
+Hi! I am Jian Zhu, a Ph.D. candidate at [Department of Linguistics, University of Michigan](https://lsa.umich.edu/linguistics). 
