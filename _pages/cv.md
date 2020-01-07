@@ -13,12 +13,12 @@ Education
 ======
 * 2017 - 2022 (Expected)  
   Ph.D in Linguistics, University of Michigan, Ann Arbor
-
 * 2019 - 2022 (Expected)  
   Ph.D in Scientific Computing, University of Michigan, Ann Arbor
-  
-* M.A. in Lingusitics, Beijing Foreign Studies University, 2017
-* B.S. in Translation and Interpreting, Beijing Foreign Studies University, 2014
+* 2014 - 2017  
+  M.A. in Lingusitics, Beijing Foreign Studies University
+* 2010 - 2014
+  B.S. in Translation and Interpreting, Beijing Foreign Studies University
 
 Work experience
 ======
