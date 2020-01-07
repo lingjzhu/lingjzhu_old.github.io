@@ -20,35 +20,6 @@ Education
 * 2010 - 2014  
   *B.S. in Translation and Interpreting*, Beijing Foreign Studies University
 
-Research Experience
-======
-* May 2019 - August 2019: Research Assistant
-  * University of Michigan, Ann Arbor
-  * Supervisor: Prof. Andries Coetzee
-  * Analyzed the joint movements of the tongue and the lip during vowel articulation with Ultrasound Tongue Imaging videos and lip camera recordings collected from Afikaans speakers.
-  
-
-* Sep 2017 - April 2018: Research Assistant
-  * University of Michigan, Ann Arbor
-  * Supervisors: Prof. Patrice Beddor & Prof. Andries Coetzee  
-  * Developed deep convolutional neural networks to automate the annotation of Ultrasound Tongue Imaging videos.
-  * Collected Ultrasound Tongue Imaging videos from human speakers and annotated tongue contours in ultrasound frames.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
   
 Teaching
 ======
@@ -83,3 +54,8 @@ Mandarn, Cantonese, Hakka - *Native*
 English - *Proficient*  
 Japanese - *Intermediate*  
 Spanish - *Basic*  
+
+
+Skills
+======
+**Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting
