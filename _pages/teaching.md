@@ -24,7 +24,7 @@ author_profile: true
   Supervisor: Professor San Duanmu  
   
   
-* **LING-111: Introduction to Language**
+* **LING-111: Introduction to Language**  
   2018 Fall  
   Department of Linguistics, University of Michigan, Ann Arbor  
   Supervisor: Professor Jelena Krivokapic  
