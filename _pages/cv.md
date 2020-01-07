@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2017 - Present
-
+* 2017 - 2022 (Expected)
 &nbsp;&nbsp;Ph.D in Linguistics, University of Michigan, Ann Arbor
 
 * Ph.D in Scientific Computing, University of Michigan, Ann Arbor, 2019 - Present
