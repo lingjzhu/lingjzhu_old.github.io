@@ -24,8 +24,10 @@ author_profile: true
 
 
 ### Software & Tools
-
+* 2019
+  * **Zhu, Jian.**, Styler, Will., & Calloway, Ian.  A CNN-based tool for automatic tongue contour tracking in ultrasound images. [[PDF]](https://arxiv.org/abs/1907.10210)[[Github]](https://github.com/lingjzhu/mtracker.github.io).
 
 
 ### Manuscripts
-
+* Submitted to Speech Prosody 2020
+  * **Zhu, Jian**. Probing the phonetic and phonological knowledge of tones in Mandarin TTS models. [[PDF]](https://arxiv.org/abs/1912.10915). [[Github]](https://github.com/lingjzhu/probing-TTS-models).
