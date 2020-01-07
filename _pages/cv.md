@@ -50,7 +50,7 @@ Membership
    
 Language
 ======
-Mandarn, Cantonese, Hakka - *Native*    
+Mandarin, Cantonese, Hakka - *Native*    
 English - *Proficient*  
 Japanese - *Intermediate*  
 Spanish - *Basic*  
