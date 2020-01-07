@@ -13,7 +13,7 @@ Education
 ======
 * 2017 - Present
 
-    Ph.D in Linguistics, University of Michigan, Ann Arbor
+&nbsp;&nbsp;Ph.D in Linguistics, University of Michigan, Ann Arbor
 
 * Ph.D in Scientific Computing, University of Michigan, Ann Arbor, 2019 - Present
 * M.A. in Lingusitics, Neijing Foreign Studies University, 2017
