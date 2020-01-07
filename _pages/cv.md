@@ -19,7 +19,7 @@ Education
 
   Ph.D in Scientific Computing, University of Michigan, Ann Arbor
   
-* M.A. in Lingusitics, Neijing Foreign Studies University, 2017
+* M.A. in Lingusitics, Beijing Foreign Studies University, 2017
 * B.S. in Translation and Interpreting, Beijing Foreign Studies University, 2014
 
 Work experience
