@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Linguistics, University of Michigan, Ann Arbor, 2017 - Present
+* Ph.D in Scientific Computing, University of Michigan, Ann Arnor, 2019 - Present
+* M.A. in Lingusitics, Neijing Foreign Studies University, 2017
+* B.S. in Translation and Interpreting, Beijing Foreign Studies University, 2014
 
 Work experience
 ======
