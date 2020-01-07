@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * 2017 - 2022 (Expected)  
   *Ph.D in Linguistics*, University of Michigan, Ann Arbor
 * 2019 - 2022 (Expected)  
@@ -22,8 +21,6 @@ Education
 
 
 
-Service & Outreach
-======
 ### Reviewing
  * The Journal of the Acoustical Society of America  
  * Acta Acustica united with Acustica  
@@ -34,22 +31,19 @@ Service & Outreach
    Student Chair (2019-2020)  
    
    
-Membership
-======  
+### Membership
  * International Speech Communication Association  
  * Association for Computational Lingusitics  
  * Acoustical Society of America  
  * Linguistic Society of America  
 
    
-Language
-======
+### Language
 Mandarin, Cantonese, Hakka - *Native*    
 English - *Proficient*  
 Japanese - *Intermediate*  
 Spanish - *Basic*  
 
 
-Skills
-======
+### Skills
 **Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting
