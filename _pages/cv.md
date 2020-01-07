@@ -12,25 +12,27 @@ redirect_from:
 Education
 ======
 * 2017 - 2022 (Expected)  
-  Ph.D in Linguistics, University of Michigan, Ann Arbor
+  *Ph.D in Linguistics*, University of Michigan, Ann Arbor
 * 2019 - 2022 (Expected)  
-  Ph.D in Scientific Computing, University of Michigan, Ann Arbor
+  *Ph.D in Scientific Computing*, University of Michigan, Ann Arbor
 * 2014 - 2017  
-  M.A. in Lingusitics, Beijing Foreign Studies University
-* 2010 - 2014
-  B.S. in Translation and Interpreting, Beijing Foreign Studies University
+  *M.A. in Lingusitics*, Beijing Foreign Studies University
+* 2010 - 2014  
+  *B.S. in Translation and Interpreting*, Beijing Foreign Studies University
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - August 2019: Research Assistant
+  * University of Michigan, Ann Arbor
+  * Supervisor: Prof. Andries Coetzee
+  * Analyzed the joint movements of the tongue and the lip during vowel articulation with Ultrasound Tongue Imaging videos and lip camera recordings collected from Afikaans speakers.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2017 - April 2018: Research Assistant
+  * University of Michigan, Ann Arbor
+  * Supervisors: Prof. Patrice Beddor & Prof. Andries Coetzee  
+  * Developed deep convolutional neural networks to automate the annotation of Ultrasound Tongue Imaging videos.
+  * Collected Ultrasound Tongue Imaging videos from human speakers and annotated tongue contours in ultrasound frames.
   
 Skills
 ======
@@ -47,11 +49,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +56,30 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+
+Service & Outreach
 ======
-* Currently signed in to 43 different slack teams
+### Reviewing
+ * The Journal of the Acoustical Society of America  
+ * Acta Acustica united with Acustica  
+ * International Workshop on Semantic Evaluation  
+ 
+### Service
+ * Committee for Outreach and Inclusive Practice  
+   Student Chair (2019-2020)  
+   
+   
+Membership
+======  
+ * International Speech Communication Association  
+ * Association for Computational Lingusitics  
+ * Acoustical Society of America  
+ * Linguistic Society of America  
+
+   
+Language
+======
+Mandarn, Cantonese, Hakka - *Native*    
+English - *Proficient*  
+Japanese - *Intermediate*  
+Spanish - *Basic*  
