@@ -20,13 +20,7 @@ Education
 * 2010 - 2014  
   *B.S. in Translation and Interpreting*, Beijing Foreign Studies University
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 
 Service & Outreach
 ======
