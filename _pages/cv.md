@@ -11,12 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2022 (Expected)
-
+* 2017 - 2022 (Expected)  
   Ph.D in Linguistics, University of Michigan, Ann Arbor
 
-* 2019 - 2022 (Expected)
-
+* 2019 - 2022 (Expected)  
   Ph.D in Scientific Computing, University of Michigan, Ann Arbor
   
 * M.A. in Lingusitics, Beijing Foreign Studies University, 2017
