@@ -16,7 +16,7 @@ author_profile: true
 
 ### Refereed Conference Proceedings
 * 2019  
-  * **Zhu, Jian**; Tian, Zuoyu & Kubler, Sandra Claudia. UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using BERT and SVMs. *Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)*. [Ranked \textbf{3rd} out of 103 teams in Subtask A]. [[LINK]](https://www.aclweb.org/anthology/S19-2138.pdf)
+  * **Zhu, Jian**; Tian, Zuoyu & Kubler, Sandra Claudia. UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using BERT and SVMs. *Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)*. [Ranked **3rd** out of 103 teams in Subtask A]. [[LINK]](https://www.aclweb.org/anthology/S19-2138.pdf)
   
   * Chao, Chaojie; Zhang, Peng; **Zhu, Jian.**, Wu, Chengrui; Wang, Huaimin.  & Kele, Xu. Predicting tongue motion in unlabeled ultrasund videos using Convolutional LSTM networks. *International Conference on Acoustics, Speech, and Signal Processing.* [Oral presentation].  [[LINK]](https://ieeexplore.ieee.org/document/8683081).
 
