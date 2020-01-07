@@ -10,4 +10,22 @@ author_profile: true
 {% endif %}
 
 ### Peer-reviewed Journal Articles
+* 2016
+  * **Zhu, Jian.** & Chen, Yaping. Effect of several acoustic cues on perceiving Mandarin retroflex affricates and fricatives in continuous speech. *The Journal of the Acoustical Society of America*. [[LINK]](https://asa.scitation.org/doi/10.1121/1.4955311)
+
+
+### Refereed Conference Proceedings
+* 2019  
+  * **Zhu, Jian**; Tian, Zuoyu & Kubler, Sandra Claudia. UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using BERT and SVMs. *Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)*. [Ranked \textbf{3rd} out of 103 teams in Subtask A]. [[LINK]](https://www.aclweb.org/anthology/S19-2138.pdf)
+  
+  * Chao, Chaojie; Zhang, Peng; **Zhu, Jian.**, Wu, Chengrui; Wang, Huaimin.  & Kele, Xu. Predicting tongue motion in unlabeled ultrasund videos using Convolutional LSTM networks. *International Conference on Acoustics, Speech, and Signal Processing.* [Oral presentation].  [[LINK]](https://ieeexplore.ieee.org/document/8683081).
+
+  *  Li, Bo; Xu,Kele; Feng, Dawei; Mi, Haibo; Wang, Huaimin; **Zhu, Jian**. Denoising convolutional autoencoder based B-mode ultrasound tongue image feature extraction. *International Conference on Acoustics, Speech, and Signal Processing.* [[LINK]](https://ieeexplore.ieee.org/document/8682806)
+
+
+### Software & Tools
+
+
+
+### Manuscripts
 
