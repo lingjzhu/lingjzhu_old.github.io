@@ -39,14 +39,14 @@ redirect_from:
 
    
 ## Language
-Mandarin, Cantonese, Hakka - *Native*    
-English - *Proficient*  
-Japanese - *Intermediate*  
-Spanish - *Basic*  
+* Mandarin, Cantonese, Hakka - *Native*    
+* English - *Proficient*  
+* Japanese - *Intermediate*  
+* Spanish - *Basic*  
 
 
 ## Skills
-* **Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting
+* **Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting, C/C++(basic)
 
 ## Coursework
 Probability Theory,  Statistical Learning:  Regression,  Computational Data Science,  Machine Learning, Deep Learning, Natural Language Processing, Computational Sociolinguistics
