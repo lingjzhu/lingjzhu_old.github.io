@@ -46,4 +46,7 @@ Spanish - *Basic*
 
 
 ## Skills
-**Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting
+* **Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting
+
+## Coursework
+Probability Theory,  Statistical Learning:  Regression,  Computational Data Science,  Machine Learning, Deep Learning, Natural Language Processing, Computational Sociolinguistics
