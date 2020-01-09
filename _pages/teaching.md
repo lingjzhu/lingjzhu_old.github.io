@@ -19,8 +19,8 @@ author_profile: true
   
   
 * **LING-313: Sound Patterns**  
-  2019 Winter
-  Department of Linguistics, University of Michigan, Ann Arbor 
+  2019 Winter  
+  Department of Linguistics, University of Michigan, Ann Arbor  
   Supervisor: Professor San Duanmu  
   
   
