@@ -16,7 +16,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Refereed Conference Proceedings
 * 2020
-  * **Zhu, Jian**. Probing the phonetic and phonological knowledge of tones in Mandarin TTS models. *Proceedings of Speech Prosody 2020*. [[PDF]](https://arxiv.org/abs/1912.10915). [[Github]](https://github.com/lingjzhu/probing-TTS-models).
+  * **Zhu, Jian**. Probing the phonetic and phonological knowledge of tones in Mandarin TTS models. *Proceedings of 10th International Conference on Speech Prosody 2020*. [[PDF]](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf).[[arXiv]](https://arxiv.org/abs/1912.10915). [[Github]](https://github.com/lingjzhu/probing-TTS-models).
 * 2019  
   * **Zhu, Jian**; Tian, Zuoyu & Kubler, Sandra Claudia. UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets Using BERT and SVMs. *Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)*. [Ranked **3rd** out of 103 teams in Subtask A]. [[LINK]](https://www.aclweb.org/anthology/S19-2138.pdf)[[Github]](https://github.com/zytian9/SemEval-2019-Task-6)
   
