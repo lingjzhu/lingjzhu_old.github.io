@@ -24,4 +24,4 @@ Briefly, my research centers on two themes:
    * I have also explored methods to liberate phoneticians' hands through automating extraction of articulatory features from ultrasound tongue imaging, an essential data collection method in articulatory phonetics.
    
 
-I support [Open Science](https://opensource.com/resources/open-science) and believe that the free flow of information in academia is essential to progress. I usally make available my code and data to ensure the replicability of my research.
+I support [Open Science](https://opensource.com/resources/open-science) and believe that the free flow of information in academia is essential to progress. I usually make available my code and data to ensure the replicability of my research.
