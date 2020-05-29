@@ -15,4 +15,4 @@ Briefly, my research focuses on two themes:
   * how language variations and changes are shaped by cognitive and social factors, and   
   * how language is acquired and (ir)regularized among all the linguistic variations.     
 2. To make speech and language technology accessible to the wider lingusitic community.   
-   While people still debate over whether linguistics is helpful to NLP, it is undoubtedly that NLP will bebefit linguistic research immensely.
+   While people still debate over whether linguistics is helpful to NLP, it is undoubtedly that NLP will bebefit linguistic research immensely. One of my research focuses is to make availble some of the latest technolgy to my fellow linguists. I have shown that Text-to-speech synthesis can be used as subjects to test phonetic hypotheses. I have also explored methods to librate phoneticians' hands through automating extraction of articulatory features fastly from ultrasound tongue imaging, an essential data collection method in phonetics.
