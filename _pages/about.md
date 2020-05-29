@@ -13,7 +13,8 @@ Hi! I am Jian Zhu, a Ph.D. candidate at [Department of Linguistics, University o
 Briefly, my research centers on two themes:  
 1. To understand:  
   * how language variations and changes are shaped by cognitive and social factors, and   
-  * how language is acquired and (ir)regularized among all the linguistic variations.  
+  * how language is acquired and (ir)regularized among all the linguistic variations. 
+  
     I take a strong computational approach to explore the dynamics of language.
      
 2. To make speech and language technology accessible to the wider lingusitic community.  
