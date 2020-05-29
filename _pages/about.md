@@ -14,4 +14,5 @@ Briefly, my research focuses on two themes:
 1. To understand:  
   * how language variations and changes are shaped by cognitive and social factors, and   
   * how language is acquired and (ir)regularized among all the linguistic variations.     
-2. To make speech and language technology accessible to the wider lingusitic community. 
+2. To make speech and language technology accessible to the wider lingusitic community.   
+   While people still debate over whether linguistics is helpful to NLP, it is undoubtedly that NLP will bebefit linguistic research immensely.
