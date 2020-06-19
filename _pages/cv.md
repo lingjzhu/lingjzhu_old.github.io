@@ -49,4 +49,4 @@ redirect_from:
 * **Programming:**  Python, R, Julia, Matlab, SQL, Perl, Shell Scripting, C/C++(basic)
 
 ## Coursework
-Probability Theory,  Statistical Learning:  Regression,  Computational Data Science,  Machine Learning, Deep Learning, Natural Language Processing, Computational Sociolinguistics
+Probability Theory,  Statistical Learning:  Regression,  Computational Data Science,  Machine Learning, Deep Learning, Natural Language Processing, Computational Sociolinguistics, Numerical Linear Algebra, Situated Language Processing
