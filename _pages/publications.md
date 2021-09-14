@@ -16,6 +16,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Selected Refereed Conference Proceedings
 * 2021
+  * **Zhu, Jian** & David Jurgens. Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles. *Proceedings of EMNLP 2021*. [[arXiv]](https://arxiv.org/pdf/2109.03158.pdf).
   * **Zhu, Jian** & David Jurgens. The structure of online social networks modulates the rate of lexical change. *Proceedings of NAACL 2021*. [[arXiv]](https://arxiv.org/abs/2104.05010).
 * 2020
   * **Zhu, Jian**. Probing the phonetic and phonological knowledge of tones in Mandarin TTS models. *Proceedings of 10th International Conference on Speech Prosody 2020*. [[PDF]](https://www.isca-speech.org/archive/SpeechProsody_2020/pdfs/51.pdf).[[arXiv]](https://arxiv.org/abs/1912.10915). [[Github]](https://github.com/lingjzhu/probing-TTS-models).
