@@ -32,4 +32,4 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Manuscripts
 * 2021
-  * **Zhu, Jian**; Zhang, Cong; Jurgens, David. (Submitted). Phone-to-audio alignment without text: A Semi-supervised Approach. [[pdf]](https://github.com/lingjzhu/lingjzhu.github.io/blob/master/_pages/Jian_ICASSP_phone_segementation.pdf)
+  * **Zhu, Jian**; Zhang, Cong; Jurgens, David. (Submitted). Phone-to-audio alignment without text: A Semi-supervised Approach. [arXiv]
